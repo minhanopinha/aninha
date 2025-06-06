@@ -1,0 +1,53 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    margin: 50px;
+    background-color: rgb(94, 189, 84);
+    border-radius: 50px;
+
+}
+body{
+    background-color: rgb(253, 244, 116);
+}
+.logo{
+    width: 250px;
+}
+.barra{
+    width: 300px;
+    height: 30px;
+    margin-top: 100px;
+    border-radius: 40px;
+}
+.tudi{
+    margin-top: 100px;
+}
+
+.milho{
+    justify-content: right;
+    background-color: rgb(113, 238, 102);
+    color: black;
+    cursor: pointer;
+}
+
+.milho :hover{
+    translate: (0, -10px);
+}
+
+.des{
+    justify-content: right;
+    background-color: rgb(113, 238, 102);
+    color: black;
+    cursor: pointer;}
+
+.des :hover{
+    translate: (0, -10px);
+}
+.tra{
+    justify-content: right;
+    background-color: rgb(113, 238, 102);
+    color: black;
+    cursor: pointer;}
+
+.tra :hover{
+    translate: (0, -10px);
+}
